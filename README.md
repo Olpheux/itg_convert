@@ -3,7 +3,7 @@
 
 A Rust-based tool to convert ITGMania scores to (approximate) DDR scores.
 
-This is primarily intended for scores for usage on services like [LIFE4](https://life4ddr.com/), estimating performance on a home setup before "the real thing" in an arcade.
+This is primarily intended for scores for usage alongside services like [LIFE4](https://life4ddr.com/), letting players estimate performance on a home setup before "the real thing" in an arcade.
 
 
 
