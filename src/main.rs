@@ -12,7 +12,6 @@ fn get_scores(strict_mode: bool) -> Vec<score::Score> {
     for song in stats.song_scores.songs {
         for step in song.steps {
             for score in step.high_score_list.scores {
-//println!("{} | {} - {}", song.dir.clone(), score.tap_note_scores.w1, score.score);
 
                 let current_itg_score = score::ITGScore {
                     bf: score.score,
